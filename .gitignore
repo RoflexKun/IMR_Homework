@@ -69,6 +69,8 @@ crashlytics-build.properties
 
 # Exclude specific large file inside Laboratory1/Library
 Laboratory1/Library/ArtifactDB
+Laboratory2/Library/ArtifactDB
 
 # Exclude specific large Vuforia package
 Laboratory1/Packages/com.ptc.vuforia.engine-*.tgz
+Laboratory2/Packages/com.ptc.vuforia.engine-*.tgz
